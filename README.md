@@ -3,12 +3,12 @@
 ##### El dataset que se usa para el ejercicio fue obtenido de Kaggle. <https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit>
 
 ## 👨‍💻Objetivos:
-🎯Cargar archivo: Oranges V.S Grapefruits
-🎯 Importar librería NumPy.
-🎯Generar gráficos.
-🎯 Calcular el coeficiente angular.
-🎯 Calcular coeficiente lineal.
-🎯 Calcular el coeficiente angular utilizando la generación de números aleatorios.
+- 🎯Cargar archivo: Oranges V.S Grapefruits
+- 🎯 Importar librería NumPy.
+- 🎯Generar gráficos.
+- 🎯 Calcular el coeficiente angular.
+- 🎯 Calcular coeficiente lineal.
+- 🎯 Calcular el coeficiente angular utilizando la generación de números aleatorios.
 
 ## Descripción de la base de datos 
 
