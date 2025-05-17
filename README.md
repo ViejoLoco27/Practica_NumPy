@@ -23,6 +23,25 @@ El conjunto de datos es mayormente ficticio. Me encantaría recopilar datos real
 ## Step by step
 
 
+###
+Regresión lineal
+$$\alpha = pendiente$$
+$$\beta = interseccion$$
+$$n = observaciones$$
+$$y = precio$$
+$$x = fecha$$
+
+
+La solución para la pendiente es:
+
+$$\alpha = \frac{n \sum xy - \sum x \sum y}{n \sum x^2 - (\sum x)^2} $$
+
+Y para la intersección:
+ $$\beta = \frac{\sum y - \alpha \sum x}{n} $$
+
+Y obtenemos la ecuación de la recta:
+
+$$y = \alpha x + \beta $$
 
 ## Conclusión
 
