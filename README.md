@@ -8,7 +8,7 @@
 - 🎯Generar gráficos.
 - 🎯 Calcular el coeficiente angular.
 - 🎯 Calcular coeficiente lineal.
-- 🎯 Calcular el coeficiente angular utilizando la generación de números aleatorios.
+
 
 ## Descripción de la base de datos 
 
@@ -22,9 +22,8 @@ El conjunto de datos es mayormente ficticio. Me encantaría recopilar datos real
 
 ## Step by step
 
+### Regresión lineal
 
-###
-Regresión lineal
 $$\alpha = pendiente$$
 $$\beta = interseccion$$
 $$n = observaciones$$
@@ -45,4 +44,5 @@ $$y = \alpha x + \beta $$
 
 ## Conclusión
 
+Los diagramas de dispersión de ambos frutos( naranjas y toronjas) muestran una correlación entre el peso y el diámetro de cada una de estas. 
 
