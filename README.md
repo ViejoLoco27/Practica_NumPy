@@ -27,8 +27,8 @@ El conjunto de datos es mayormente ficticio. Me encantaría recopilar datos real
 $$\alpha = pendiente$$
 $$\beta = interseccion$$
 $$n = observaciones$$
-$$y = precio$$
-$$x = fecha$$
+$$y = weight$$
+$$x = diameter$$
 
 
 La solución para la pendiente es:
